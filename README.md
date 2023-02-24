@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FriptuT
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me friptut@gmail.com
 
 <!---
