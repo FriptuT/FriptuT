@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @FriptuT
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning: {
+                            1: 'Data Structures and Algorithms in C++',
+                            2: 'C#',
+                            3: 'ASP .NET Core',
+                            4: 'Typescript',
+                            5: 'React',
+                            6: 'Redux',
+                            7: 'SQL,MYSQL,ORACLE SQL'
+                           }
 - 📫 How to reach me friptut@gmail.com
 
 <!---
