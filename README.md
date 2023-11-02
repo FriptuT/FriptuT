@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning: {
                             1: 'Data Structures and Algorithms in C++', <br>
-                            2: 'C#',
+                            2: 'C#',<br>
                             3: 'ASP .NET Core',
                             4: 'Typescript',
                             5: 'React',
