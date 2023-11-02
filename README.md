@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FriptuT
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning: {
+- 🌱 I’m currently learning:
+             {<br>
                             1: 'Data Structures and Algorithms in C++', <br>
                             2: 'C#',<br>
                             3: 'ASP .NET Core',
