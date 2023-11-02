@@ -4,11 +4,11 @@
              {<br>
                             1: 'Data Structures and Algorithms in C++', <br>
                             2: 'C#',<br>
-                            3: 'ASP .NET Core',
-                            4: 'Typescript',
-                            5: 'React',
-                            6: 'Redux',
-                            7: 'SQL,MYSQL,ORACLE SQL'
+                            3: 'ASP .NET Core',<br>
+                            4: 'Typescript',<br>
+                            5: 'React',<br>
+                            6: 'Redux',<br>
+                            7: 'SQL,MYSQL,ORACLE SQL'<br>
                            }
 - 📫 How to reach me friptut@gmail.com
 
