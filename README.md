@@ -8,7 +8,7 @@
                             4: 'Typescript',<br>
                             5: 'React',<br>
                             6: 'Redux',<br>
-                            7: 'SQL,MYSQL,ORACLE SQL'<br>
+                            7: 'SQL,ORACLE SQL'<br>
                            }
 - 📫 How to reach me friptut@gmail.com
 
