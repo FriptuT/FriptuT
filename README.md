@@ -7,7 +7,6 @@
                             3: 'ASP .NET Core',<br>
                             4: 'Typescript',<br>
                             5: 'React',<br>
-                            6: 'Redux',<br>
                             7: 'SQL,ORACLE SQL'<br>
                            }
 - 📫 How to reach me friptut@gmail.com
