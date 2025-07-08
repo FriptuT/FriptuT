@@ -1,13 +1,16 @@
 - 👋 Hi, I’m @FriptuT
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Web Development and Cybersecurity, with my main goal being Application Security. 
 - 🌱 I’m currently learning:
              {<br>
-                            1: 'Data Structures and Algorithms in C++', <br>
-                            2: 'C#',<br>
-                            3: 'ASP .NET Core',<br>
+                            1: 'Data Structures and Algorithms in Python', <br>
+                            2: 'Python scripting',<br>
+                            3: 'NET Core',<br>
                             4: 'Typescript',<br>
                             5: 'React',<br>
-                            7: 'SQL,ORACLE SQL'<br>
+                            7: 'postgresql,mysql'<br>
+                            8: 'CyberSecurity'<br>
+                            9: 'Penetration Testing' <br>
+                           10: 'Bug Bounty Hunting' <br>
                            }
 - 📫 How to reach me friptut@gmail.com
 
