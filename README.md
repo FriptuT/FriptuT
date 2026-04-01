@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Cybersecurity, with my main goal being Application Security. 
 - 🌱 I’m currently learning:
              {<br>
-                            1: 'Data Structures and Algorithms in Python', <br>
+                            1: 'Data Structures and Algorithms in Python\C#', <br>
                             2: 'Python scripting',<br>
                             3: 'NET Core',<br>
                             4: 'Typescript',<br>
