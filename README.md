@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FriptuT
-- 👀 I’m interested in Web Development and Cybersecurity, with my main goal being Application Security. 
+- 👀 I’m interested in Web Development, PenTesting. 
 - 🌱 I’m currently learning:
              {<br>
                             1: 'Data Structures and Algorithms in Python\C#', <br>
